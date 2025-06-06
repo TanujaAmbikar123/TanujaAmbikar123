@@ -7,13 +7,15 @@
     <summary><h1 style="display: inline-block"> Hi there, I'm Tanuja Ambikar 👋 </h1></summary>
   </ul>
 </div>
-<img height=400 align="right" alt="GIF" src="https://github.com/TanujaAmbikar123/TanujaAmbikar123/blob/main/BA.png">
+<img height=500 align="right" alt="GIF" src="https://github.com/TanujaAmbikar123/TanujaAmbikar123/blob/main/BA.png">
+<ul align="center">
 <a href="https://www.linkedin.com/in/tanuja-ambikar/">
   <img align="left" alt="Tanuja's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/TanujaAmbikar123/">
   <img align="left" alt="Tanuja's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+</ul>
 </br>
 <br/>
 <ul align="left">
