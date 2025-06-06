@@ -16,14 +16,16 @@
 </a>
 </br>
 <br/>
+<ul align="left">
+    <summary><h1 style="display: inline-block"> About Me </h1></summary>
+  </ul>
+Hello everyone! My name is Tanuja, and this is my portfolio.
+I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
+I have a background in Business Analysis.
 
-- 👋 Hi, I’m @TanujaAmbikar123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can see more information in my <a href="https://rilcloud-my.sharepoint.com/personal/tanuja_ambikar_ril_com/Documents/Microsoft%20Teams%20Chat%20Files/Tanuja_Ambikar_Resume.pdf">CV</a>
+
+This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
 
 <!---
 TanujaAmbikar123/TanujaAmbikar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
