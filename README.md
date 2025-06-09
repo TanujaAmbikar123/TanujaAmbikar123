@@ -79,7 +79,6 @@
 </ul>
 <p><strong>Power BI dashboards:</strong><a title="Blinkit-dashboard-practice" href="https://github.com/TanujaAmbikar123/TanujaAmbikar123/blob/main/Blinkit%20Dashboard%20Practice.pbix">&nbsp;Blinkit-dashboard<code>.pbix</code>&nbsp;</a>&nbsp;<span style="font-family: monospace;">and&nbsp;<a href="https://github.com/TanujaAmbikar123/TanujaAmbikar123/blob/main/Blinkit_Dashboard_Practice.pdf">Blinkit-dashboard<code>.</code>pdf</a></span></p>
 <br/>
-<br/>
 <summary><h2> Contacts </h2></summary>
 <ul align="left">
 <li>Linkedin : <a href="https://www.linkedin.com/in/tanuja-ambikar/">Tanuja Ambikar</a></li>
