@@ -24,8 +24,11 @@
   <img align="left" alt="Tanuja's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </ul>
+<br/>
+<br/>
+<summary><h2> Contacts </h2></summary>
+<ul align="left">
+<li>Linkedin : <a href="https://www.linkedin.com/in/tanuja-ambikar/">Tanuja Ambikar</a></li>
+<li>Email : <a href="tanujaambikar@gmail.com">tanujaambikar@gmail.com</a></li>
 
-<!---
-TanujaAmbikar123/TanujaAmbikar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
