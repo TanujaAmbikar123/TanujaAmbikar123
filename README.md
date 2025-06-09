@@ -74,7 +74,7 @@
 <p data-start="1290" data-end="1302">DAX Formulas</p>
 </li>
 <li data-start="1303" data-end="1360">
-<p data-start="1305" data-end="1360">Microsoft Excel (for initial data preparation, if used)</p>
+<p data-start="1305" data-end="1360">Microsoft Excel (for initial data preparation)</p>
 </li>
 </ul>
 
