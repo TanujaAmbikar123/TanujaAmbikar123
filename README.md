@@ -26,6 +26,12 @@
 </ul>
 <br/>
 <br/>
+<summary><h2> Portfolio Projects </h2></summary>
+<p>This section contains my practice projects with brief descriptions.</p>
+<h3>Blinkit Dashboard created using Power BI</h3>
+<p><strong>Description:</strong> </p>
+<br/>
+<br/>
 <summary><h2> Contacts </h2></summary>
 <ul align="left">
 <li>Linkedin : <a href="https://www.linkedin.com/in/tanuja-ambikar/">Tanuja Ambikar</a></li>
