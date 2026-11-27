@@ -13,7 +13,7 @@
   <p>Hello everyone! My name is Tanuja, and this is my portfolio.<br/>
     I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
     I have a background in Business Analysis.<br/>
-    You can see more information in my <a href="https://github.com/TanujaAmbikar123/TanujaAmbikar123/blob/main/Tanuja_Ambikar_Resume%20(3).pdf">CV</a>.<br/>
+    You can see more information in my <a href="https://github.com/TanujaAmbikar123/TanujaAmbikar123/blob/main/Tanuja_Ambikar_Resume_BA_26-11-26.pdf">CV</a>.<br/>
     This repository was created to showcase my analytical and technical skills (Excel, SQL, Google Analytics 4, Power BI, PowerPoint, and others).</p>
     <br/>
     <br/>
